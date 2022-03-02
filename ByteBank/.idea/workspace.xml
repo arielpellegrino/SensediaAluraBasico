@@ -46,7 +46,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.CriarConta">
+  <component name="RunManager">
     <configuration name="CriarConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CriarConta" />
       <module name="ByteBank" />
@@ -54,10 +54,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Run" />
-      <item itemvalue="Application.CriarConta" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CriarConta" />
